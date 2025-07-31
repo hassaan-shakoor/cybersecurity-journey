@@ -1,2 +1,1 @@
-# cybersecurity-journey
-Tracking my cybersecurity learning and CTF practice
+# My CyberSecurity journey
